@@ -1,0 +1,6 @@
+---
+- name: Converge
+  hosts: all
+  user: ansible
+  roles:
+    - role: {{ cookiecutter.role_name }}
