@@ -1,0 +1,5 @@
+---
+# - name: jj0cker.exmaple_role
+#   scm: git
+#   src: https://github.com/jj0cker/ansible-role-example_role
+#   version: master

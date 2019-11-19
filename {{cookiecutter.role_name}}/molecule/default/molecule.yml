@@ -1,6 +1,7 @@
 ---
 dependency:
   name: galaxy
+  enabled: false
 driver:
   name: {{ cookiecutter.driver_name }}
 lint:
