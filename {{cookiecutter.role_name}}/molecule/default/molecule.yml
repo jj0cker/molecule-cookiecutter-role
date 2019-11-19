@@ -4,7 +4,7 @@ dependency:
 driver:
   name: {{ cookiecutter.driver_name }}
 lint:
-  name: yamlint
+  name: yamllint
   options:
     config-file: molecule/default/yaml-lint.yml
 platforms:
