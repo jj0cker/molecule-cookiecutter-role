@@ -9,6 +9,8 @@ driver:
 {%- endif %}
 lint:
   name: {{ cookiecutter.lint_name }}
+  options:
+    config-file: molecule/default/yaml-lint.yml
 platforms:
 {%- if cookiecutter.driver_name == 'azure' %}
   - name: instance
