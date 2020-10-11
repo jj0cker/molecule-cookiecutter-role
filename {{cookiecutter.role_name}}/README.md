@@ -1,5 +1,5 @@
-Role Name
-=========
+Role Name: {{ cookiecutter.role_name }}
+=======================================
 
 A brief description of the role goes here.
 
