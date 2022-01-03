@@ -1,6 +1,5 @@
 ---
 galaxy_info:
-  role_name: {{ cookiecutter.role_name }}
   author: jj0cker
   description: Description.
   license: "license (BSD, MIT)"
